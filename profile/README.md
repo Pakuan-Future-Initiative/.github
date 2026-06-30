@@ -32,24 +32,24 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 <td align="center" width="220">
 <a href="https://www.linkedin.com/in/wahyudharmaw/">
-<img src="../assets/members/founder.jpg" width="120" style="border-radius:50%"><br><br>
+<img src="../assets/member/Wahyu_Dharma.jpg" width="120" style="border-radius:50%"><br><br>
 <b>Wahyu Dharma</b>
 </a>
 <br>
 HRGA Manager
 <br>
-<sub>Digital Government • Data Science</sub>
+<sub>Human Resources</sub>
 </td>
 
 <td align="center" width="220">
-<a href="https://linkedin.com/in/linkedin-research">
-<img src="../assets/members/research.jpg" width="120"><br><br>
+<a href="https://linkedin.com/in/fadly-mt">
+<img src="../assets/member/Fadly_MT.jpg" width="120"><br><br>
 <b>Nama Anggota</b>
 </a>
 <br>
-Research Lead
+Data Scientist
 <br>
-<sub>Research & Innovation</sub>
+<sub>Data & Research</sub>
 </td>
 
 <td align="center" width="220">
