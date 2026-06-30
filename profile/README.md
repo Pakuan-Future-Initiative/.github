@@ -2,6 +2,7 @@
 
 <img width="100%" src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/banner.png"/>
 </div>
+
 ---
 Pakuan Future Initiative is a collaborative community dedicated to fostering innovation, research excellence, digital transformation, and future leadership. We empower students, researchers, developers, professionals, and innovators to create impactful solutions through interdisciplinary collaboration and open knowledge sharing.
 
