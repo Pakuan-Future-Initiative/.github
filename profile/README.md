@@ -108,10 +108,4 @@ Data Scientist
 
 ## ✨ Creating Tomorrow, Starting Today ✨
 
-⭐ Follow our organization and contribute to our mission.
-
-<a href="https://linkedin.com/company/your-company">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
-</a>
-
 </div>
