@@ -48,25 +48,25 @@ Data Scientist
 </td>
 
 <td align="center" width="220">
-<a href="https://linkedin.com/in/linkedin-engineer">
-<img src="../assets/members/engineer.jpg" width="120"><br><br>
-<b>Nama Anggota</b>
+<a href="https://www.linkedin.com/in/marvellino/">
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Marvellinojpg" width="120"><br><br>
+<b>Marvellino Kurniawan</b>
 </a>
 <br>
-Software Engineer
+Data Analyst
 <br>
-<sub>Open Source Development</sub>
+<sub>Performance Marketing</sub>
 </td>
 
 <td align="center" width="220">
-<a href="https://linkedin.com/in/linkedin-analyst">
-<img src="../assets/members/analyst.jpg" width="120"><br><br>
-<b>Nama Anggota</b>
+<a href="https://www.linkedin.com/in/muhammad-yusuf-chairul-hakim/">
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Yusuf.jpg" width="120"><br><br>
+<b>Yusuf Chairul Hakim</b>
 </a>
 <br>
-Data Scientist
+Professional Writer
 <br>
-<sub>AI & Analytics</sub>
+<sub>Quality Control</sub>
 </td>
 
 </tr>
