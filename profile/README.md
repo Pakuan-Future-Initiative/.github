@@ -33,19 +33,6 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 ---
 
-## 🚀 Focus Areas
-
-| Area                    | Description                                   |
-| ----------------------- | --------------------------------------------- |
-| Artificial Intelligence | Research and applied AI solutions             |
-| Data Science            | Analytics, statistics, and machine learning   |
-| Digital Government      | Public sector innovation and interoperability |
-| Smart Society           | Technology for social impact                  |
-| Open Source             | Collaborative software development            |
-| Education               | Learning and capacity building                |
-
----
-
 ## 🛠 Technology Stack
 
 <p align="center">
