@@ -49,7 +49,7 @@ Data Scientist
 
 <td align="center" width="220">
 <a href="https://www.linkedin.com/in/marvellino/">
-<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Marvellinojpg" width="120"><br><br>
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Marvellino.jpg" width="120"><br><br>
 <b>Marvellino Kurniawan</b>
 </a>
 <br>
