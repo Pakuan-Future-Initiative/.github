@@ -38,7 +38,7 @@ HRGA Manager
 
 <td align="center" width="220">
 <a href="https://linkedin.com/in/fadly-mt">
-<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Fadly_MT.jpg" width="120"><br><br>
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Fadly.jpg" width="120"><br><br>
 <b>Fadly Mochammad T</b>
 </a>
 <br>
