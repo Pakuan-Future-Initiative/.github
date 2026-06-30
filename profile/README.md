@@ -1,19 +1,8 @@
 <div align="center">
 
 <img width="100%" src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/banner.png"/>
-
-### *Empowering Innovation, Research, and Future Leaders*
-
-[![Research](https://img.shields.io/badge/Research-Active-blue)]()
-[![Innovation](https://img.shields.io/badge/Innovation-Focused-purple)]()
-[![Open Source](https://img.shields.io/badge/Open%20Source-Community-green)]()
-[![Education](https://img.shields.io/badge/Education-Driven-orange)]()
-
 </div>
-
 ---
-
-
 Pakuan Future Initiative is a collaborative community dedicated to fostering innovation, research excellence, digital transformation, and future leadership. We empower students, researchers, developers, professionals, and innovators to create impactful solutions through interdisciplinary collaboration and open knowledge sharing.
 
 ---
