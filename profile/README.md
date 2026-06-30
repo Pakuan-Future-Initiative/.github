@@ -32,7 +32,7 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 <td align="center" width="220">
 <a href="https://www.linkedin.com/in/wahyudharmaw/">
-<img src="../assets/member/Wahyu_Dharma.jpg" width="120" style="border-radius:50%"><br><br>
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Wahyu_Dharma.jpg" width="120"><br><br>
 <b>Wahyu Dharma</b>
 </a>
 <br>
@@ -43,7 +43,7 @@ HRGA Manager
 
 <td align="center" width="220">
 <a href="https://linkedin.com/in/fadly-mt">
-<img src="../assets/member/Fadly_MT.jpg" width="120"><br><br>
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Fadly_MT.jpg" width="120"><br><br>
 <b>Nama Anggota</b>
 </a>
 <br>
