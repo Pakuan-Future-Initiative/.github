@@ -4,9 +4,8 @@
 </div>
 
 <br>
-<p>
-  <strong><sub></sub><sup>Pakuan Future Initiative</sup></strong> is a collaborative community dedicated to fostering innovation, research excellence, digital transformation, and future leadership. We empower students, researchers, developers, professionals, and innovators to create impactful solutions through interdisciplinary collaboration and open knowledge sharing..
-</p>
+
+**Pakuan Future Initiative** is a collaborative community dedicated to fostering innovation, research excellence, digital transformation, and future leadership. We empower students, researchers, developers, professionals, and innovators to create impactful solutions through interdisciplinary collaboration and open knowledge sharing.
 
 # 👥 Members
 
