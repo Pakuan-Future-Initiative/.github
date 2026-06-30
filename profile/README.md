@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/banner.png"/>
+<img width="100%" src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/Banner.jpg"/>
 </div>
 
 ---
