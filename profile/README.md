@@ -27,7 +27,7 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 <td align="center" width="220">
 <a href="https://www.linkedin.com/in/wahyudharmaw/">
-<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Wahyu_Dharma.jpg" width="120"><br><br>
+<img src="https://raw.githubusercontent.com/Pakuan-Future-Initiative/.github/main/assets/member/Wahyu.png" width="120"><br><br>
 <b>Wahyu Dharma W</b>
 </a>
 <br>
