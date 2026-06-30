@@ -1,17 +1,17 @@
 <div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pakuan%20Future%20Initiative&fontSize=45&fontAlignY=40"/>
+
 # 🚀 Pakuan Future Initiative
 
 ### *Empowering Innovation, Research, and Future Leaders*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pakuan%20Future%20Initiative&fontSize=45&fontAlignY=40"/>
 
 [![Research](https://img.shields.io/badge/Research-Active-blue)]()
 [![Innovation](https://img.shields.io/badge/Innovation-Focused-purple)]()
 [![Open Source](https://img.shields.io/badge/Open%20Source-Community-green)]()
 [![Education](https://img.shields.io/badge/Education-Driven-orange)]()
 
-*"Building the future through collaboration, technology, and impactful innovation."*
+### *Building the future through collaboration, technology, and impactful innovation.*
 
 </div>
 
@@ -25,51 +25,59 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 # 👥 Our Members
 
-<table align="center">
+<div align="center">
+
+<table>
 <tr>
 
-<td align="center" width="200">
-<a href="https://github.com/fadly-mocht">
-<img src="https://github.com/fadly-mocht.png" width="120px;" style="border-radius:50%"/>
-<br><br>
-<b>Fadly Mochammad Taufiq</b>
+<td align="center" width="220">
+<a href="https://www.linkedin.com/in/wahyudharmaw/">
+<img src="../assets/members/founder.jpg" width="120" style="border-radius:50%"><br><br>
+<b>Wahyu Dharma</b>
 </a>
 <br>
-Data Scientist
+HRGA Manager
+<br>
+<sub>Digital Government • Data Science</sub>
 </td>
 
-<td align="center" width="200">
-<a href="https://github.com/username2">
-<img src="https://github.com/username2.png" width="120px;" style="border-radius:50%"/>
-<br><br>
-<b>Nama Lengkap</b>
+<td align="center" width="220">
+<a href="https://linkedin.com/in/linkedin-research">
+<img src="../assets/members/research.jpg" width="120"><br><br>
+<b>Nama Anggota</b>
 </a>
 <br>
 Research Lead
+<br>
+<sub>Research & Innovation</sub>
 </td>
 
-<td align="center" width="200">
-<a href="https://github.com/username3">
-<img src="https://github.com/username3.png" width="120px;" style="border-radius:50%"/>
-<br><br>
-<b>Nama Lengkap</b>
+<td align="center" width="220">
+<a href="https://linkedin.com/in/linkedin-engineer">
+<img src="../assets/members/engineer.jpg" width="120"><br><br>
+<b>Nama Anggota</b>
 </a>
 <br>
 Software Engineer
+<br>
+<sub>Open Source Development</sub>
 </td>
 
-<td align="center" width="200">
-<a href="https://github.com/username4">
-<img src="https://github.com/username4.png" width="120px;" style="border-radius:50%"/>
-<br><br>
-<b>Nama Lengkap</b>
+<td align="center" width="220">
+<a href="https://linkedin.com/in/linkedin-analyst">
+<img src="../assets/members/analyst.jpg" width="120"><br><br>
+<b>Nama Anggota</b>
 </a>
 <br>
 Data Scientist
+<br>
+<sub>AI & Analytics</sub>
 </td>
 
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -89,8 +97,8 @@ Data Scientist
 |------|-------------|
 | 🤖 Artificial Intelligence | Research and applied AI solutions |
 | 📊 Data Science | Analytics, statistics, and machine learning |
-| 🏛 Digital Government | Public sector innovation and interoperability |
-| 🌏 Smart Society | Technology for social impact |
+| 🏛️ Digital Government | Public sector innovation and interoperability |
+| 🌍 Smart Society | Technology for social impact |
 | 🌐 Open Source | Collaborative software development |
 | 🎓 Education | Learning and capacity building |
 
@@ -114,7 +122,7 @@ Data Scientist
 | 💡 Innovation Labs | Experimental and innovative solutions |
 | 🌐 Open Source Projects | Community-driven software development |
 | 📊 Data Science Initiatives | Data analytics and AI projects |
-| 🏛 Digital Transformation Programs | Government and public sector innovation |
+| 🏛️ Digital Transformation Programs | Government and public sector innovation |
 
 ---
 
@@ -122,8 +130,9 @@ Data Scientist
 
 <div align="center">
 
-![GitHub Org's stars](https://img.shields.io/github/stars/Pakuan-Future-Initiative?style=for-the-badge)
-![GitHub Org's followers](https://img.shields.io/github/followers/Pakuan-Future-Initiative?style=for-the-badge)
+![Visitors](https://komarev.com/ghpvc/?username=Pakuan-Future-Initiative&label=Visitors)
+![Stars](https://img.shields.io/github/stars/Pakuan-Future-Initiative?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Pakuan-Future-Initiative?style=for-the-badge)
 
 </div>
 
@@ -145,6 +154,10 @@ We welcome students, researchers, developers, designers, policymakers, and innov
 
 ## ✨ Creating Tomorrow, Starting Today ✨
 
-⭐ If you support our mission, follow our organization and contribute to our projects.
+⭐ Follow our organization and contribute to our mission.
+
+<a href="https://linkedin.com/company/your-company">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin">
+</a>
 
 </div>
