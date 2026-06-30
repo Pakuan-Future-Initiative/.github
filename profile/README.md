@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pakuan%20Future%20Initiative&fontSize=45&fontAlignY=40"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=ffffff&text=Pakuan%20Future%20Initiative&fontColor=000000&fontSize=45&fontAlignY=40"/>
 
 ### *Empowering Innovation, Research, and Future Leaders*
 
