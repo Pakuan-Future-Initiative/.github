@@ -9,8 +9,6 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-Community-green)]()
 [![Education](https://img.shields.io/badge/Education-Driven-orange)]()
 
-### *Building the future through collaboration, technology, and impactful innovation.*
-
 </div>
 
 ---
