@@ -51,13 +51,6 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 
 ---
 
-## 🤝 Join Our Community
-
-We welcome students, researchers, developers, designers, and innovators who share our vision of building a better future through technology and collaboration.
-
-📧 Contact us for collaboration opportunities.
-
----
 
 <div align="center">
 
