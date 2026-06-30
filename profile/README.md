@@ -2,8 +2,6 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Pakuan%20Future%20Initiative&fontSize=45&fontAlignY=40"/>
 
-# 🚀 Pakuan Future Initiative
-
 ### *Empowering Innovation, Research, and Future Leaders*
 
 [![Research](https://img.shields.io/badge/Research-Active-blue)]()
