@@ -17,13 +17,12 @@
 
 ---
 
-# 🌟 About Us
 
 Pakuan Future Initiative is a collaborative community dedicated to fostering innovation, research excellence, digital transformation, and future leadership. We empower students, researchers, developers, professionals, and innovators to create impactful solutions through interdisciplinary collaboration and open knowledge sharing.
 
 ---
 
-# 👥 Our Members
+# 👥 Members
 
 <div align="center">
 
@@ -81,29 +80,6 @@ Data Scientist
 
 ---
 
-# 🎯 Our Mission
-
-- 🔬 Advance research and scientific innovation
-- 💻 Develop open-source technology solutions
-- 📚 Promote education and knowledge sharing
-- 🌏 Create sustainable and impactful initiatives
-- 🤝 Build collaborative ecosystems for future leaders
-
----
-
-# 🚀 Focus Areas
-
-| Area | Description |
-|------|-------------|
-| 🤖 Artificial Intelligence | Research and applied AI solutions |
-| 📊 Data Science | Analytics, statistics, and machine learning |
-| 🏛️ Digital Government | Public sector innovation and interoperability |
-| 🌍 Smart Society | Technology for social impact |
-| 🌐 Open Source | Collaborative software development |
-| 🎓 Education | Learning and capacity building |
-
----
-
 # 🛠 Technology Stack
 
 <div align="center">
@@ -113,16 +89,6 @@ Data Scientist
 </div>
 
 ---
-
-# 📂 Our Projects
-
-| Project | Description |
-|---------|-------------|
-| 🧠 Research & Publications | Scientific research and publications |
-| 💡 Innovation Labs | Experimental and innovative solutions |
-| 🌐 Open Source Projects | Community-driven software development |
-| 📊 Data Science Initiatives | Data analytics and AI projects |
-| 🏛️ Digital Transformation Programs | Government and public sector innovation |
 
 ---
 
@@ -135,18 +101,6 @@ Data Scientist
 ![Followers](https://img.shields.io/github/followers/Pakuan-Future-Initiative?style=for-the-badge)
 
 </div>
-
----
-
-# 🤝 Join Our Community
-
-We welcome students, researchers, developers, designers, policymakers, and innovators who share our vision of building a better future through technology, research, and collaboration.
-
-- 🔬 Research Collaboration
-- 💻 Open Source Contribution
-- 📚 Knowledge Sharing
-- 🚀 Innovation Programs
-- 🌏 Social Impact Projects
 
 ---
 
