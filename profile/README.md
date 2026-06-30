@@ -29,13 +29,13 @@ Pakuan Future Initiative is a collaborative community dedicated to fostering inn
 <tr>
 
 <td align="center" width="200">
-<a href="https://github.com/username1">
-<img src="https://github.com/username1.png" width="120px;" style="border-radius:50%"/>
+<a href="https://github.com/fadly-mocht">
+<img src="https://github.com/fadly-mocht.png" width="120px;" style="border-radius:50%"/>
 <br><br>
-<b>Nama Lengkap</b>
+<b>Fadly Mochammad Taufiq</b>
 </a>
 <br>
-Founder & Director
+Data Scientist
 </td>
 
 <td align="center" width="200">
